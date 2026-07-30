@@ -28,3 +28,4 @@
 ## Phase 4: Polish & Deploy — 2026-07-30T21:37:08+04:00
 - Created comprehensive `README.md` documentation covering setup, local routing validation, and detailed Render deployment guidelines.
 - Configured git setup, committed project codebase, created public GitHub repository, and successfully pushed the codebase to remote repository.
+- **Hotfix (2026-07-30T21:42:56+04:00):** Created and added `Dockerfile` to the repository to prevent build failures on Render configurations expecting a containerized context.
